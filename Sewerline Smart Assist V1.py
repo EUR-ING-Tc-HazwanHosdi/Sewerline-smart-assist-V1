@@ -5,9 +5,9 @@ import pandas as pd
 # =========================
 # APP CONFIG
 # =========================
-st.set_page_config(page_title="SewerLine Design Advisor", layout="wide")
+st.set_page_config(page_title="SewerLine Design Smart Assist Pro", layout="wide")
 
-st.title("🚧 SewerLine Design Advisor")
+st.title("🚧 SewerLine Design Smart Assist Pro")
 st.subheader("MSIG Vol. 3–Based Gravity Sewer Design System")
 
 st.markdown("""
